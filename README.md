@@ -79,5 +79,5 @@ Pengguna dapat keluar dari sistem dengan aman.
 
 # Demo Proyek
 
-* Github: [Github](https://github.com/sinadia/Final-Proyek-Web-Programing-2)
+* Github: [Github](https://github.com/ahmadsaepudin22/web2_kelompok2_uas.git)
 * Youtube: 
