@@ -80,4 +80,4 @@ Pengguna dapat keluar dari sistem dengan aman.
 # Demo Proyek
 
 * Github: [Github](https://github.com/ahmadsaepudin22/web2_kelompok2_uas.git)
-* Youtube: https://drive.google.com/drive/folders/1s3UIvKGra1yCU3tyOjU0M5RSF2qsbxt2
+* Youtube: https://youtu.be/BptKVxE9Oj8?si=e3iAdw9GOiGGUUd7
